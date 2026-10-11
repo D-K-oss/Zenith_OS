@@ -7,6 +7,8 @@ Zenith OS is an immutable, containerized operating system based on **Fedora Boot
 !! Deprecated !!
 will not receive any updates 
 !! !!
+
+
 Thanks to the underlying `bootc` architecture, the entire operating system is managed, built, and distributed just like a standard OCI container image, making customization and deployment incredibly straightforward.
 
 ---
